@@ -56,13 +56,6 @@ My work connects engineering decisions to business outcomes. From a construction
       The site you're reading this from — a production-minded React portfolio with a 100+ language translation pipeline, accessible UI patterns, and interactive tools backed by WebAssembly.
     </td>
   </tr>
-  <tr>
-    <td width="120"><img src="https://www.pattygcoding.com/assets/images/biblioteca.png" width="90" /></td>
-    <td>
-      <a href="https://github.com/pattygcoding/Biblioteca-JSON"><strong>Biblioteca JSON</strong></a> — <code>Available Here</code><br />
-      A Python localization pipeline that turns one structured content source into a portfolio available in 100+ languages — global reach treated as a data-maintenance system, not a one-time translation.
-    </td>
-  </tr>
 </table>
 
 <div align="right"><a href="https://www.pattygcoding.com/portfolio">Explore the full portfolio →</a></div>
