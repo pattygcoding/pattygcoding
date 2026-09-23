@@ -1,21 +1,14 @@
-<!--
-  Drop this content into your pattygcoding/pattygcoding repository as README.md
-  to display it on your GitHub profile front page.
--->
-
 <div align="center">
 
 # Patrick Goodwin
-
-### Senior Full-Stack Engineer · Product & Systems
 
 <a href="https://www.pattygcoding.com" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=900&color=5CCCC9&center=true&vCenter=true&width=650&lines=Senior+Full-Stack+Engineer;Systems+%26+Architecture+Builder;SaaS+Product+Engineer;Reliable+Software%2C+Business+Outcomes" alt="Typing SVG" />
 </a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-pattygcoding.com-101114?style=for-the-badge&logo=googlechrome&logoColor=5CCCC9)](https://www.pattygcoding.com)
-[![Takeoff Engine](https://img.shields.io/badge/Live%20SaaS-takeoffengine.com-101114?style=for-the-badge&logo=rocket&logoColor=5CCCC9)](https://takeoffengine.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patrick%20Goodwin-101114?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/patrickgoodwin7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pattygcoding.com-5CCCC9?style=for-the-badge&logo=googlechrome&logoColor=101114)](https://www.pattygcoding.com)
+[![Takeoff Engine](https://img.shields.io/badge/Live%20SaaS-takeoffengine.com-F2A541?style=for-the-badge&logo=rocket&logoColor=101114)](https://takeoffengine.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patrick%20Goodwin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/patrickgoodwin7)
 
 </div>
 
