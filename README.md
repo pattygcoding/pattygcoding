@@ -70,6 +70,7 @@ My work connects engineering decisions to business outcomes. From a construction
 - **[Inventory Register](https://github.com/pattygcoding/Restaurant-Inventory-Register)** — Angular 17+ and Node.js POS workflow with RBAC and a mock payment flow
 - **[PayrollOBOL](https://github.com/pattygcoding/PayrollOBOL)** — GnuCOBOL payroll processing with a SQLite double-entry ledger and Svelte dashboard
 - **[JSON & YAML Auto Formatter](https://github.com/pattygcoding/JSON-YAML-Auto-Formatter)** — a real Go parser compiled to WebAssembly, validating and formatting entirely in-browser
+- **[Biblioteca JSON](https://github.com/pattygcoding/Biblioteca-JSON)** — a Python library catalog exercise backed by JSON data storage
 
 ---
 
@@ -109,6 +110,7 @@ My work connects engineering decisions to business outcomes. From a construction
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
