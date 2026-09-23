@@ -1,4 +1,4 @@
-l<div align="center">
+pl<div align="center">
 
 # Patrick Goodwin
 
@@ -12,7 +12,7 @@ l<div align="center">
 
 </div>
 
-Senior full-stack engineer with 6+ years of experience taking products from ambiguous requirements to reliable production systems. I design the architecture behind React, Angular, .NET, Node.js, Java, C#, Go, and SQL applications: clear service boundaries, durable data models, secure access patterns, and delivery paths teams can operate with confidence.
+Senior full-stack engineer with 6+ years of experience taking products from ambiguous requirements to reliable production systems. I design the architecture behind React, Angular, .NET, Node.js, Java, C#, Go, and SQL applications- clear service boundaries, durable data models, secure access patterns, and delivery paths teams can operate with confidence.
 
 My work connects engineering decisions to business outcomes. From a construction-estimating SaaS that turns spreadsheet data into client-ready proposals to revenue-generating web platforms, I build software around the workflow, risk, and measurable value that matter to the people using it.
 
