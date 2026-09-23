@@ -42,18 +42,18 @@ My work connects engineering decisions to business outcomes. From a construction
       A Minecraft mod adding custom tools, armor, mobs, blocks, and dimensions, built primarily in Java and Kotlin with support spanning Minecraft versions 1.16 through 26.2.
     </td>
   </tr>
+    <tr>
+    <td width="120"><img src="https://www.pattygcoding.com/assets/images/logo.png" width="90" /></td>
+    <td>
+      <a href="https://www.pattygcoding.com"><strong>Patrick Goodwin Portfolio</strong></a> — <code>Full Website</code><br />
+      The site you're reading this from — a production-minded React portfolio with a 100+ language translation pipeline, accessible UI patterns, and interactive tools backed by WebAssembly.
+    </td>
+  </tr>
   <tr>
     <td width="120"><img src="https://www.pattygcoding.com/assets/images/snake.png" width="90" /></td>
     <td>
       <a href="https://www.pattygcoding.com/snake"><strong>Snake</strong></a> — <code>Available Here</code><br />
       A polished Snake engine built with Rust and Macroquad, compiled to WebAssembly and rendered through HTML5 Canvas, with deterministic ticks, smooth interpolation, and a focused test suite.
-    </td>
-  </tr>
-  <tr>
-    <td width="120"><img src="https://www.pattygcoding.com/assets/images/logo.png" width="90" /></td>
-    <td>
-      <a href="https://www.pattygcoding.com"><strong>Patrick Goodwin Portfolio</strong></a> — <code>Full Website</code><br />
-      The site you're reading this from — a production-minded React portfolio with a 100+ language translation pipeline, accessible UI patterns, and interactive tools backed by WebAssembly.
     </td>
   </tr>
 </table>
