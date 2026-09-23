@@ -32,14 +32,6 @@ Senior full-stack engineer with **6+ years** of experience taking products from 
 
 My work connects engineering decisions to business outcomes. From a construction-estimating SaaS that turns spreadsheet data into client-ready proposals to revenue-generating web platforms, I build software around the workflow, risk, and measurable value that matter to the people using it.
 
-<div align="center">
-
-| 6+ | 25+ | 142+ |
-|:---:|:---:|:---:|
-| **Years Building** | **Projects Shipped** | **Technologies** |
-
-</div>
-
 ---
 
 ## 🚀 Selected Work
