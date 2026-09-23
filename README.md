@@ -24,35 +24,35 @@ My work connects engineering decisions to business outcomes. From a construction
   <tr>
     <td width="120"><img src="https://www.pattygcoding.com/assets/images/takeoff.png" width="90" /></td>
     <td>
-      <a href="https://takeoffengine.com"><strong>Takeoff Engine</strong></a> — <code>SaaS</code> · <code>Full Website</code><br />
+      <a href="https://takeoffengine.com"><strong>Takeoff Engine</strong></a> <code>SaaS</code> · <code>Full Website</code><br />
       Inconsistent spreadsheets in. Construction estimates and client-ready proposals out. A React + Express estimating SaaS built around the contractor's actual workflow - CSV/Excel ingestion, trench and earthwork calculations, labor/markup tracking, and polished PDF/Word proposals.
     </td>
   </tr>
   <tr>
     <td width="120"><img src="https://www.pattygcoding.com/assets/images/tiger.png" width="90" /></td>
     <td>
-      <a href="https://www.pattygcoding.com/tiger"><strong>Tiger Programming Language</strong></a> — <code>Available Here</code><br />
+      <a href="https://www.pattygcoding.com/tiger"><strong>Tiger Programming Language</strong></a> <code>Available Here</code><br />
       A custom programming language and interpreter built in Go to explore language runtime design and execution behavior - compiled to WebAssembly and shipped as a real, inspectable product surface instead of a repo-only experiment.
     </td>
   </tr>
   <tr>
     <td width="120"><img src="https://www.pattygcoding.com/assets/images/suprememc.png" width="90" /></td>
     <td>
-      <a href="https://github.com/pattygcoding/SupremeMC-26.2-Mod"><strong>SupremeMC</strong></a> — <code>Minecraft Mod</code><br />
+      <a href="https://github.com/pattygcoding/SupremeMC-26.2-Mod"><strong>SupremeMC</strong></a> <code>Minecraft Mod</code><br />
       A Minecraft mod adding custom tools, armor, mobs, blocks, and dimensions, built primarily in Java and Kotlin with support spanning Minecraft versions 1.16 through 26.2.
     </td>
   </tr>
     <tr>
     <td width="120"><img src="https://www.pattygcoding.com/assets/images/logo.png" width="90" /></td>
     <td>
-      <a href="https://www.pattygcoding.com"><strong>Patrick Goodwin Portfolio</strong></a> — <code>Full Website</code><br />
+      <a href="https://www.pattygcoding.com"><strong>Patrick Goodwin Portfolio</strong></a> <code>Full Website</code><br />
       A production-minded React portfolio with a 100+ language translation pipeline, accessible UI patterns, and interactive tools backed by WebAssembly.
     </td>
   </tr>
   <tr>
     <td width="120"><img src="https://www.pattygcoding.com/assets/images/snake.png" width="90" /></td>
     <td>
-      <a href="https://www.pattygcoding.com/snake"><strong>Snake</strong></a> — <code>Available Here</code><br />
+      <a href="https://www.pattygcoding.com/snake"><strong>Snake</strong></a> <code>Available Here</code><br />
       A polished Snake engine built with Rust and Macroquad, compiled to WebAssembly and rendered through HTML5 Canvas, with deterministic ticks, smooth interpolation, and a focused test suite.
     </td>
   </tr>
