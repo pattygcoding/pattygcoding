@@ -16,7 +16,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-pattygcoding.com-101114?style=for-the-badge&logo=googlechrome&logoColor=5CCCC9)](https://www.pattygcoding.com)
 [![Takeoff Engine](https://img.shields.io/badge/Live%20SaaS-takeoffengine.com-101114?style=for-the-badge&logo=rocket&logoColor=5CCCC9)](https://takeoffengine.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Patrick%20Goodwin-101114?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/patrickgoodwin7)
-[![YouTube](https://img.shields.io/badge/YouTube-@patty__g7-101114?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@patty_g7)
 
 </div>
 
