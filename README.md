@@ -18,7 +18,7 @@ My work connects engineering decisions to business outcomes. From a construction
 
 ---
 
-## 🚀 Selected Work
+## Selected Work
 
 <table>
   <tr>
@@ -60,20 +60,20 @@ My work connects engineering decisions to business outcomes. From a construction
 
 <div align="right"><a href="https://www.pattygcoding.com/portfolio">Explore the full portfolio →</a></div>
 
-### More notable builds
+### Other Notable Builds
 
-- 🎮 **[Connect Four Language Tree](https://github.com/pattygcoding/Connect-Four-Language-Tree)** — 50+ implementations of Connect Four across 30+ languages and 20+ frameworks (React, Rails, ASP.NET, and more)
-- 🔗 **[Interop Samples](https://github.com/pattygcoding/Interop-Samples)** — a cross-language interoperability reference spanning 15 languages and 18 execution patterns
-- 🔐 **[Rijndael Encryption](https://github.com/pattygcoding/SupremeMC)** — 10+ implementations of Rijndael (AES) across 128/192/256-bit variants
-- 🖥️ **[Turing Machines](https://github.com/pattygcoding/Turing-Machines)** — 30+ implementations demonstrating Turing completeness across languages
-- 🛒 **[Grocery App (Blazor)](https://github.com/pattygcoding/Grocery-App-Blazor)** — .NET 9 Blazor Server app with controller/service/repository boundaries and full test coverage
-- 📦 **[Inventory Register](https://github.com/pattygcoding/Restaurant-Inventory-Register)** — Angular 17+ and Node.js POS workflow with RBAC and a mock payment flow
-- 💵 **[PayrollOBOL](https://github.com/pattygcoding/PayrollOBOL)** — GnuCOBOL payroll processing with a SQLite double-entry ledger and Svelte dashboard
-- 🧰 **[JSON & YAML Auto Formatter](https://github.com/pattygcoding/JSON-YAML-Auto-Formatter)** — a real Go parser compiled to WebAssembly, validating and formatting entirely in-browser
+- **[Connect Four Language Tree](https://github.com/pattygcoding/Connect-Four-Language-Tree)** — 50+ implementations of Connect Four across 30+ languages and 20+ frameworks (React, Rails, ASP.NET, and more)
+- **[Interop Samples](https://github.com/pattygcoding/Interop-Samples)** — a cross-language interoperability reference spanning 15 languages and 18 execution patterns
+- **[Rijndael Encryption](https://github.com/pattygcoding/SupremeMC)** — 10+ implementations of Rijndael (AES) across 128/192/256-bit variants
+- **[Turing Machines](https://github.com/pattygcoding/Turing-Machines)** — 30+ implementations demonstrating Turing completeness across languages
+- **[Grocery App (Blazor)](https://github.com/pattygcoding/Grocery-App-Blazor)** — .NET 9 Blazor Server app with controller/service/repository boundaries and full test coverage
+- **[Inventory Register](https://github.com/pattygcoding/Restaurant-Inventory-Register)** — Angular 17+ and Node.js POS workflow with RBAC and a mock payment flow
+- **[PayrollOBOL](https://github.com/pattygcoding/PayrollOBOL)** — GnuCOBOL payroll processing with a SQLite double-entry ledger and Svelte dashboard
+- **[JSON & YAML Auto Formatter](https://github.com/pattygcoding/JSON-YAML-Auto-Formatter)** — a real Go parser compiled to WebAssembly, validating and formatting entirely in-browser
 
 ---
 
-## 🛠️ Toolkit
+## Toolkit
 
 **Top Languages**
 
