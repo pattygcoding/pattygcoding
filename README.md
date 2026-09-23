@@ -1,4 +1,4 @@
-<div align="center">
+l<div align="center">
 
 # Patrick Goodwin
 
@@ -25,14 +25,14 @@ My work connects engineering decisions to business outcomes. From a construction
     <td width="120"><img src="https://www.pattygcoding.com/assets/images/takeoff.png" width="90" /></td>
     <td>
       <a href="https://takeoffengine.com"><strong>Takeoff Engine</strong></a> — <code>SaaS</code> · <code>Full Website</code><br />
-      Inconsistent spreadsheets in. Construction estimates and client-ready proposals out. A React + Express estimating SaaS built around the contractor's actual workflow — CSV/Excel ingestion, trench and earthwork calculations, labor/markup tracking, and polished PDF/Word proposals.
+      Inconsistent spreadsheets in. Construction estimates and client-ready proposals out. A React + Express estimating SaaS built around the contractor's actual workflow - CSV/Excel ingestion, trench and earthwork calculations, labor/markup tracking, and polished PDF/Word proposals.
     </td>
   </tr>
   <tr>
     <td width="120"><img src="https://www.pattygcoding.com/assets/images/tiger.png" width="90" /></td>
     <td>
       <a href="https://www.pattygcoding.com/tiger"><strong>Tiger Programming Language</strong></a> — <code>Available Here</code><br />
-      A custom programming language and interpreter built in Go to explore language runtime design and execution behavior — compiled to WebAssembly and shipped as a real, inspectable product surface instead of a repo-only experiment.
+      A custom programming language and interpreter built in Go to explore language runtime design and execution behavior - compiled to WebAssembly and shipped as a real, inspectable product surface instead of a repo-only experiment.
     </td>
   </tr>
   <tr>
@@ -46,7 +46,7 @@ My work connects engineering decisions to business outcomes. From a construction
     <td width="120"><img src="https://www.pattygcoding.com/assets/images/logo.png" width="90" /></td>
     <td>
       <a href="https://www.pattygcoding.com"><strong>Patrick Goodwin Portfolio</strong></a> — <code>Full Website</code><br />
-      The site you're reading this from — a production-minded React portfolio with a 100+ language translation pipeline, accessible UI patterns, and interactive tools backed by WebAssembly.
+      A production-minded React portfolio with a 100+ language translation pipeline, accessible UI patterns, and interactive tools backed by WebAssembly.
     </td>
   </tr>
   <tr>
