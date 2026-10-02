@@ -38,7 +38,7 @@ My work connects engineering decisions to business outcomes. From a construction
   <tr>
     <td width="120"><img src="https://www.pattygcoding.com/assets/images/suprememc.png" width="90" /></td>
     <td>
-      <a href="https://github.com/pattygcoding/SupremeMC-26.2-Mod"><strong>SupremeMC</strong></a> — <code>Minecraft Mod</code><br />
+      <a href="https://www.pattygcoding.com/suprememc"><strong>SupremeMC</strong></a> — <code>Minecraft Mod</code><br />
       A Minecraft mod adding custom tools, armor, mobs, blocks, and dimensions, built primarily in Java and Kotlin with support spanning Minecraft versions 1.16 through 26.2.
     </td>
   </tr>
